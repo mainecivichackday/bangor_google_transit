@@ -1,0 +1,12 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type
+HAMPDEN,BCC,lilac,Hampden,,3
+MT_HOPE,BCC,purple,Mount Hope,,3
+STILLWATER,BCC,yellow,Stillwater,,3
+MALL,BCC,red,Mall Hopper,,3
+CENTER,BCC,black,Center Street,,3
+HAMMOND,BCC,brown,Hammond St.,,3
+CAPEHART,BCC,blue,Capehart,,3
+BREWER_S,BCC,orange,Brewer S,,3
+BREWER_N,BCC,green,Brewer N,,3
+ORONO,BCC,lblue,Black Bear Orono Express,,3
+OLD_TOWN,BCC,teal,Old Town,,3
